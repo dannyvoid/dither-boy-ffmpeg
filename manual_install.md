@@ -16,9 +16,9 @@ Quit Dither Boy first. Download from [dither-boy-ffmpeg releases](https://github
 
 1. Download [ffmpeg-macos.zip](https://github.com/dannyvoid/dither-boy-ffmpeg/releases/download/ffmpeg-v1.0.0/ffmpeg-macos.zip)
 2. Extract `ffmpeg`
-3. Put it here (create the folder if needed):
+3. Put it here (create the folder if needed) (it should end up as a file named ffmpeg inside the ffmpeg/ folder:
 
-   `~/Library/Application Support/Dither Boy/ffmpeg/ffmpeg`
+   `~/Library/Application Support/Dither Boy/ffmpeg/`
 
 4. In Terminal:
 
